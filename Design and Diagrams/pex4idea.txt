@@ -1,0 +1,35 @@
+It will be a role-playing game in which you can create a character and save your progress. You will be able to kill monsters to gain experience, and once you gain a certain amount of experience, 
+you will gain a level (‘level up’) and gain an increase in certain skills, which makes you kill monsters easier.
+
+For PEX4, I am planning to use the Pygame module (http://pygame.org/news.html) to create a  game in python. 
+In this 2d game, the user will be able to create a character who will walk around, doing certain things to level up. 
+Certain attributes of the character will increase as its level goes up. It will be possible for the user to save the progress of their character to play at another time. 
+Further implementation will be added as time allows.
+
+Setting: Medieval Europe
+Name: Azure Dynasty
+Characters Possible to Be: 
+    -Viking
+    -Monk
+    -Archbishop
+    -Duke
+    -Caliph
+    -Knight**
+    -Wizard
+Enemies:
+    -Unicorns
+    -Cattle
+    -Dragons
+    -Giants
+    -Leprechauns
+    -Sea Monster
+    -Plague
+Attributes:
+    -Wisdom
+    -Durability (defense)
+    -Stability (not missing as much)
+    -Health
+    -Power
+Other Things to Implement:
+    -Castles
+    -Shop
